@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
 
 ## Usage
 
-Check out the live demo [here](https://admin-dashboard-admin.netlify.app/) to explore the application without downloading it.
+Check out the live demo [here](https://dashboard2002.netlify.app/) to explore the application without downloading it.
 
 ## Built With
 
