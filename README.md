@@ -37,12 +37,15 @@ Check out the live demo [here](https://dashboard2002.netlify.app/) to explore th
 
 ## Built With
 
-- Framework: Vite.js
 - Technologies: React.js, Syncfusion, Tailwind CSS
 
-## License
+## Authors
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- [@Abhishek9784](https://www.github.com/Abhishek9784)
+
+---
+
+Thank you for using the Todo-list11. We hope it helps you stay organized and productive!
 
   
 
