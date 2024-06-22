@@ -1,6 +1,7 @@
 # React-Dashboard110 [View code](https://dashboard2002.netlify.app/)
 
-![image](https://github.com/Kristi200/Dashboard/assets/80427725/4bfe65d6-2225-41ff-9c85-2a9d5adfdc84)
+![image](![Screenshot (4)](https://github.com/Abhishek9784/React-Dashboard110/assets/172130269/816976dd-c9d8-43a1-8dc5-8461417cae13)
+)
 
 
 ## Explore Data Visually with Our Interactive Admin Dashboard
